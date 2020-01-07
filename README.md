@@ -3,7 +3,7 @@ Simple social network
 # Features:
 - authorization by email confirmation.
 - admin and user roles.
-- posts feed, likes, follows with CRUD and file uploading using simple dir for storing files.
+- posts feed, likes, follows with CRUD and file uploading using "upload" dir for storing files.
 
 
 Technologies:
