@@ -1,4 +1,4 @@
-Simple social network
+Social network Spring Boot 2 application
 
 # Features:
 - authorization by email confirmation.
