@@ -14,6 +14,5 @@ Technologies:
     - mail
 - Freemarker
 - MySQL
-- Lombok
 - Flyway
  
