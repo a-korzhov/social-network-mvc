@@ -2,8 +2,8 @@ Social network Spring Boot 2 application
 
 # Features:
 - authorization by email confirmation.
-- admin and user roles.
-- posts feed, likes, follows with CRUD and file uploading using "upload" dir for storing files.
+- admin and user functionality.
+- posts feed, likes, follows, uploading images for posts on disk.
 
 
 Technologies:
